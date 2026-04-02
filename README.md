@@ -1,4 +1,5 @@
-This repository contains the R code necessary to replicate all analyses and figures presented in the publication Diaz-Castillo et al., Frontiers in Endocrinology, 2026 (https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1787973/full)
+This repository contains the R code necessary to replicate all analyses and figures presented in the publication: 
+Diaz-Castillo C, Aguiar SR, Chamorro-Garcia R. Preconception exposures of female mice to a panel of metabolic disruptors induce sexually dimorphic metabolic perturbations in their offspring. Front Endocrinol. 2026;17. doi:10.3389/fendo.2026.1787973 (https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1787973/full)
 
 Prior to executing this code, the user must download all Supplementary files associated with this publication into a directory of their choice. 
 
